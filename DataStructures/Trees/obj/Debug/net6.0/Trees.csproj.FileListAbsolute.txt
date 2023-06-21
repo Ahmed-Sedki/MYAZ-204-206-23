@@ -1,0 +1,12 @@
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Trees\bin\Debug\net6.0\Trees.deps.json
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Trees\bin\Debug\net6.0\Trees.dll
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Trees\bin\Debug\net6.0\Trees.pdb
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Trees\obj\Debug\net6.0\Trees.csproj.AssemblyReference.cache
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Trees\obj\Debug\net6.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Trees\obj\Debug\net6.0\Trees.AssemblyInfoInputs.cache
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Trees\obj\Debug\net6.0\Trees.AssemblyInfo.cs
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Trees\obj\Debug\net6.0\Trees.csproj.CoreCompileInputs.cache
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Trees\obj\Debug\net6.0\Trees.dll
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Trees\obj\Debug\net6.0\refint\Trees.dll
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Trees\obj\Debug\net6.0\Trees.pdb
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Trees\obj\Debug\net6.0\ref\Trees.dll

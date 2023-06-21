@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OCQCHGFdAlyNNhu3eN1lp1eu/nApwbGdzJiOINV6yaHeHA6m6qgb6vXjhGqTiF8UdrDwqO5PEVCvTOgWjgWrKQ==",
+  "success": true,
+  "projectFilePath": "E:\\4rd Semester\\MYAZ20420623\\Data Structures\\Apps\\DataStructureApp\\DataStructureApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sal_b\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\sal_b\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}

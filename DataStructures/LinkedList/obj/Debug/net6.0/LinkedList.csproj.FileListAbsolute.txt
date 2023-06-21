@@ -1,0 +1,12 @@
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\LinkedList\bin\Debug\net6.0\LinkedList.deps.json
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\LinkedList\bin\Debug\net6.0\LinkedList.dll
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\LinkedList\bin\Debug\net6.0\LinkedList.pdb
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.csproj.AssemblyReference.cache
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfoInputs.cache
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfo.cs
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.csproj.CoreCompileInputs.cache
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.dll
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\LinkedList\obj\Debug\net6.0\refint\LinkedList.dll
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.pdb
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\LinkedList\obj\Debug\net6.0\ref\LinkedList.dll

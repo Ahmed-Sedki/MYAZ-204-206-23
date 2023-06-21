@@ -1,0 +1,173 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Stub.System.Data.SQLite.Core.NetStandard/1.0.117": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {
+            "related": ".dll.altconfig;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {
+            "related": ".dll.altconfig;.xml"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-x64/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-x64/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      },
+      "System.Data.SQLite.Core/1.0.117": {
+        "type": "package",
+        "dependencies": {
+          "Stub.System.Data.SQLite.Core.NetStandard": "[1.0.117]"
+        }
+      },
+      "SortingAlgorithms/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SortingAlgorithms.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SortingAlgorithms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stub.System.Data.SQLite.Core.NetStandard/1.0.117": {
+      "sha512": "x1zzPC/A4MmiKGDLoxLE6O5KLu7Kz7dyzhPQzlqYFTFcXmXAtM7hNNWpGw5yLEz833AnGbd/kxoitXArgR4YyA==",
+      "type": "package",
+      "path": "stub.system.data.sqlite.core.netstandard/1.0.117",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/System.Data.SQLite.dll",
+        "lib/netstandard2.0/System.Data.SQLite.dll.altconfig",
+        "lib/netstandard2.0/System.Data.SQLite.xml",
+        "lib/netstandard2.1/System.Data.SQLite.dll",
+        "lib/netstandard2.1/System.Data.SQLite.dll.altconfig",
+        "lib/netstandard2.1/System.Data.SQLite.xml",
+        "runtimes/linux-x64/native/SQLite.Interop.dll",
+        "runtimes/osx-x64/native/SQLite.Interop.dll",
+        "runtimes/win-x64/native/SQLite.Interop.dll",
+        "runtimes/win-x86/native/SQLite.Interop.dll",
+        "stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+        "stub.system.data.sqlite.core.netstandard.nuspec"
+      ]
+    },
+    "System.Data.SQLite.Core/1.0.117": {
+      "sha512": "lGfOhA3QQod9XhdWYqLgNgbgq5uZnVG6DtnhDAdPisbLpTTgZBNbeGnp+GWt8C+3EyaqBYTGJWXcxHlHKwo05A==",
+      "type": "package",
+      "path": "system.data.sqlite.core/1.0.117",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "system.data.sqlite.core.1.0.117.nupkg.sha512",
+        "system.data.sqlite.core.nuspec"
+      ]
+    },
+    "SortingAlgorithms/1.0.0": {
+      "type": "project",
+      "path": "../../SortingAlgorithms/SortingAlgorithms/SortingAlgorithms.csproj",
+      "msbuildProject": "../../SortingAlgorithms/SortingAlgorithms/SortingAlgorithms.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SortingAlgorithms >= 1.0.0",
+      "System.Data.SQLite.Core >= 1.0.117"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sal_b\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\4rd Semester\\MYAZ20420623\\Data Structures\\Apps\\DataStructureApp\\DataStructureApp.csproj",
+      "projectName": "DataStructureApp",
+      "projectPath": "E:\\4rd Semester\\MYAZ20420623\\Data Structures\\Apps\\DataStructureApp\\DataStructureApp.csproj",
+      "packagesPath": "C:\\Users\\sal_b\\.nuget\\packages\\",
+      "outputPath": "E:\\4rd Semester\\MYAZ20420623\\Data Structures\\Apps\\DataStructureApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\sal_b\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\4rd Semester\\MYAZ20420623\\Data Structures\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.csproj": {
+              "projectPath": "E:\\4rd Semester\\MYAZ20420623\\Data Structures\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "System.Data.SQLite.Core": {
+            "target": "Package",
+            "version": "[1.0.117, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

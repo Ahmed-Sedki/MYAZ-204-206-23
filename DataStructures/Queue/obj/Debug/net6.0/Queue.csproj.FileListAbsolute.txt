@@ -1,0 +1,17 @@
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\bin\Debug\net6.0\Queue.deps.json
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\bin\Debug\net6.0\Queue.dll
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\bin\Debug\net6.0\Queue.pdb
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\bin\Debug\net6.0\Array.dll
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\bin\Debug\net6.0\LinkedList.dll
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\bin\Debug\net6.0\Array.pdb
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\bin\Debug\net6.0\LinkedList.pdb
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\obj\Debug\net6.0\Queue.csproj.CopyComplete
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\obj\Debug\net6.0\Queue.dll
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\obj\Debug\net6.0\refint\Queue.dll
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\obj\Debug\net6.0\Queue.pdb
+E:\4rd Semester\MYAZ20420623\Data Structures\DataStructures\Queue\obj\Debug\net6.0\ref\Queue.dll
